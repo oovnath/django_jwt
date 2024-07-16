@@ -150,3 +150,6 @@ python manage.py createsuperuser
 python manage.py runserver
 ```
 
+![Image description](https://github.com/oovnath/django_jwt/blob/main/img/image.png?raw=true)
+
+![Image description](https://github.com/oovnath/django_jwt/blob/main/img/image2.png?raw=true)
